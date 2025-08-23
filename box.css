@@ -1,0 +1,17 @@
+.nahin{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 50%;
+    display: inline-block;
+    /* background-color: red; */
+    /* text-align:justify; */
+}
+#paragraph{
+    color: white;
+    background-color: black;
+    font-size: 5px;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+}
